@@ -1,0 +1,1 @@
+https://github.com/phidatahq/phidata/tree/main/cookbook/llm_os
